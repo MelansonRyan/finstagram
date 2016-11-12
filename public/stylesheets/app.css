@@ -1,7 +1,10 @@
 header {
     background-color: #244751;
     color: #E8FDFF;
-    font-family: Pacifico;
+    font-family: Play;
+}
+h1 {
+    font-family: 'Nosifer', cursive;
 }
 body {
     background-color: whitesmoke;
